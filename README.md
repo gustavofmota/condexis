@@ -1,52 +1,52 @@
-# README para **Condexis - Gestão de Condomínios**
+# README for **Condexis - Condominium Management**
 
 ---
 
-## 📋 **Descrição do Projeto**
+## 📋 **Project Description**
 
-O **Condexis** é uma aplicação web desenvolvida para melhorar e simplificar a gestão de condomínios, focando-se em resolver desafios comuns enfrentados por administradores e moradores. Com recursos centralizados e intuitivos, a plataforma visa otimizar a comunicação, automatizar processos administrativos e garantir transparência em todas as operações relacionadas ao condomínio.
+**Condexis** is a web application designed to improve and simplify condominium management, focusing on solving common challenges faced by administrators and residents. With centralized and intuitive features, the platform aims to optimize communication, automate administrative processes, and ensure transparency in all condominium-related operations.
 
-Esta aplicação foi criada no âmbito do **Pré-Projeto Académico 2024-2025**, com o objetivo de explorar soluções digitais para problemas reais na gestão de comunidades habitacionais.
-
----
-
-## 🎯 **Objetivos do Projeto**
-
-### Objetivo Geral:
-
-Desenvolver uma plataforma digital para gestão de condomínios, que promova uma comunicação eficaz, maior eficiência nas operações administrativas e a centralização de dados importantes.
-
-### Objetivos Específicos:
-
-1. Facilitar a comunicação entre moradores e administradores através de notificações centralizadas.
-2. Automatizar processos administrativos, como gestão de pagamentos e reporte de problemas.
-3. Fornecer uma plataforma segura para votações online, promovendo uma tomada de decisões mais acessível e inclusiva.
-4. Criar um sistema de acompanhamento para resolução de problemas reportados.
-5. Centralizar documentos essenciais, como atas de reuniões e regulamentos internos.
+This application was created as part of the **2024-2025 Academic Pre-Project**, with the goal of exploring digital solutions to real-world problems in community management.
 
 ---
 
-## 🚀 **Funcionalidades Principais**
+## 🎯 **Project Objectives**
 
-- **Comunicação Eficiente:** Notificações e mensagens centralizadas entre administradores e moradores.
-- **Reportar Problemas:** Sistema dedicado para registar e monitorizar o estado de resolução de avarias.
-- **Votações Online:** Ferramenta segura para eleições de administradores e aprovação de decisões importantes.
-- **Armazenamento de Documentos:** Área segura para gerir e aceder a documentos importantes do condomínio.
+### General Objective:
+
+Develop a digital platform for condominium management that promotes effective communication, greater efficiency in administrative operations, and the centralization of important data.
+
+### Specific Objectives:
+
+1. Facilitate communication between residents and administrators through centralized notifications.
+2. Automate administrative processes, such as issue reporting.
+3. Provide a secure platform for online voting, promoting more accessible and inclusive decision-making.
+4. Create a tracking system for reported issues to ensure resolution.
+5. Centralize essential documents, such as meeting minutes and internal regulations.
 
 ---
 
-## 🔧 **Tecnologias Utilizadas**
+## 🚀 **Main Features**
+
+- **Efficient Communication:** Centralized notifications and messaging between administrators and residents.
+- **Issue Reporting:** A dedicated system to log and monitor the status of issue resolutions.
+- **Online Voting:** A secure tool for administrator elections and approval of important decisions.
+- **Document Storage:** A secure area to manage and access essential condominium documents.
+
+---
+
+## 🔧 **Technologies Used**
 
 - **Frontend:** Next.js, Tailwind CSS, TypeScript
 - **Backend:** Node.js, Express.js
-- **Base de Dados:** Supabase (PostgreSQL)
-- **Autenticação:** NextAuth.js
-- **Comunicação em Tempo Real:** Socket.io
-- **Mensagens Push:** Firebase Cloud Messaging (FCM)
+- **Database:** Supabase (PostgreSQL)
+- **Authentication:** NextAuth.js
+- **Real-Time Communication:** Socket.io
+- **Push Notifications:** Firebase Cloud Messaging (FCM)
 - **ORM:** Prisma
 - **Cache:** Redis
-- **Pagamentos:** Easypay
-- **Linguagem:** TypeScript
-- **Outras Ferramentas:** GraphQL
+- **Payments:** Easypay
+- **Programming Language:** TypeScript
+- **Other Tools:** GraphQL
 
 ---
