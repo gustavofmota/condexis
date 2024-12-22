@@ -6,7 +6,7 @@
 
 **Condexis** is a web application designed to improve and simplify condominium management, focusing on solving common challenges faced by administrators and residents. With centralized and intuitive features, the platform aims to optimize communication, automate administrative processes, and ensure transparency in all condominium-related operations.
 
-This application was created as part of the **2024-2025 Academic Pre-Project**, with the goal of exploring digital solutions to real-world problems in community management.
+This application was created as part of the **2024-2025 Academic Project in ISTEC**, with the goal of exploring digital solutions to real-world problems in community management.
 
 ---
 
